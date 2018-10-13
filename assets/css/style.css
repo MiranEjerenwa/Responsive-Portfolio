@@ -1,0 +1,116 @@
+body {
+    background-image: url("../images/royaltygray.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.navbar{
+background-color: #ffffff;
+
+}
+.navbar-header {
+background-color: #4aaaa5;
+width: 330px;
+text-align: center;
+color: #ffffff;
+
+
+}
+.navbar-brand {
+font-size: 36px;
+font-family: 'Charmonman' 'cursive';
+font-weight: bolder;
+
+}
+h2 {
+font-family: 'Charmonman' 'cursive';
+color: #4aaaa5;
+width: 960px;
+font-size: 36px;
+}
+li:hover {
+background-color: #4aaaa5;
+
+}
+
+.maincontent {
+    font-family: inherit;
+    color: #777777;
+    margin: 70px auto;
+    width: 960px;
+    background-color: #ffffff;
+    padding: 40px;
+    
+}
+.bottom_green_line {
+    background-color: #4aaaa5;
+    height: 20px; 
+    position: fixed;
+    bottom: 25px;
+    left: 0px;
+    width: 100%;
+}
+.footer {
+    position: fixed;
+    left: 0px; height: 40px;
+    bottom: 0px; width: 100%;
+    color: blanchedalmond;
+    size: bolder;
+    text-align: center;
+    background-color: #666666; 
+}
+p {
+    color: #777777;
+    word-wrap: normal;
+    line-height: 40px;
+}
+.picaboutme {
+    float: left;
+    margin: 10px 20px 10px 10px;
+}
+.linebreak {
+background: #777777;
+color: #777777;
+  width: 850px;
+  padding: 1.5px;
+  margin-bottom: 15px;
+  
+}
+.pt1 {
+    text-align: center;
+    background-color: #4aaaa5;
+    font-size: 16px;
+    color: #ffffff;
+    width: 260px;
+    margin-bottom: 30px;
+}
+
+.pt2{
+    text-align: center;
+    background-color: #4aaaa5;
+    font-size: 16px;
+    color: #ffffff;
+    width: 260px;
+    margin-bottom: 30px;
+
+}
+
+.pt3 {
+    text-align: center;
+    background-color: #4aaaa5;
+    font-size: 16px;
+    color: #ffffff;
+    width: 260px;
+    margin-bottom: 30px;
+
+}
+
+.pt4 {
+    text-align: center;
+    background-color: #4aaaa5;
+    font-size: 16px;
+    color: #ffffff;
+    width: 260px;
+    margin-bottom: 30px;
+
+}
