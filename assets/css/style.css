@@ -9,12 +9,12 @@ body {
 background-color: #ffffff;
 width: 100%;
 
+
 }
 .navbar-header {
 background-color: #4aaaa5;
 width: 330px;
 text-align: center;
-
 }
 .navbar-brand {
 font-size: 36px;
@@ -25,14 +25,12 @@ font-weight: bolder;
     color: #ffffff;
 }
 
-#page-nav-collapse {
-
-}
 h2 {
 font-family: 'Charmonman' 'cursive';
 color: #4aaaa5;
 width: 960px;
 font-size: 36px;
+animation: slidein 1s forwards;
 }
 
 li:hover {
@@ -73,10 +71,12 @@ p {
     color: #777777;
     word-wrap: normal;
     line-height: 40px;
+    
 }
 .picaboutme {
     float: left;
     margin: 10px 20px 10px 10px;
+    
 }
 .linebreak {
 background: #777777;
@@ -123,6 +123,18 @@ color: #777777;
     margin-bottom: 30px;
 
 }
+/*animations----*/
+@keyframes slidein {
+    from {
+        margin-left: 100%;
+        width: 300%;
+      }
+    
+      to {
+        margin-left: 0%;
+        width: 100%;
+      }
+    }
 
 /*Media queries*/
 /* Psuedo edit nav bar to fall under Header*/
