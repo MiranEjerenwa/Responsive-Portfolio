@@ -30,7 +30,6 @@ font-family: 'Charmonman' 'cursive';
 color: #4aaaa5;
 width: 960px;
 font-size: 36px;
-animation: slidein 1s forwards;
 }
 
 li:hover {
@@ -145,6 +144,7 @@ color: #777777;
 li {
     float: left;
     }  
+}
 @media screen and (max-width: 768px) {
     .maincontent {
         width: 100%;
