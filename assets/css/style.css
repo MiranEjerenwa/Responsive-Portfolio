@@ -122,6 +122,16 @@ color: #777777;
     margin-bottom: 30px;
 
 }
+
+.pt5{
+    text-align: center;
+    background-color: #4aaaa5;
+    font-size: 16px;
+    color: #ffffff;
+    width: 260px;
+    margin-bottom: 30px;
+    background-image: url(https://miranejerenwa.github.io/Stock-API/);
+}
 /*animations----*/
 @keyframes slidein {
     from {
